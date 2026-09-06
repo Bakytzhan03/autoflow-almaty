@@ -1,0 +1,12 @@
+.next
+node_modules
+out
+dist
+.env*
+!.env.example
+.vercel
+.playwright-cli
+test-results
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
