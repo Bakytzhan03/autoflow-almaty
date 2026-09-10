@@ -27,7 +27,7 @@ export default function Hero() {
             <div className="overflow-hidden rounded-[1.5rem] bg-[#f0f1ee] p-3 sm:p-7 lg:p-8">
               <div className="flex flex-col items-start justify-between gap-2.5 lg:flex-row lg:gap-4">
                 <div>
-                  <p className="text-sm font-bold uppercase tracking-[0.18em] text-neutral-500">AUTOFLOW ALMATY</p>
+                  <p className="text-sm font-bold uppercase tracking-[0.18em] text-neutral-500">REAL SERVICE ALMATY</p>
                   <p className="mt-2 text-[1.6rem] font-black leading-tight sm:mt-3 sm:text-3xl">Расчёт стоимости</p>
                   <p className="mt-2 text-sm font-semibold text-neutral-500">СТО в Алматы · Цены в ₸</p>
                 </div>

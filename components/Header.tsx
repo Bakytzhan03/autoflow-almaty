@@ -21,12 +21,12 @@ export default function Header() {
         <a
           href="#top"
           className="flex min-w-0 items-center gap-3 rounded-full focus:outline-none focus:ring-2 focus:ring-[var(--accent)] focus:ring-offset-4"
-          aria-label="AutoFlow Almaty"
+          aria-label="Real Service Almaty"
         >
           <span className="grid h-10 w-10 shrink-0 place-items-center rounded-full bg-[var(--foreground)] text-sm font-black text-white">
-            AF
+            RS
           </span>
-          <span className="min-w-0 text-lg font-black tracking-tight">AutoFlow</span>
+          <span className="min-w-0 text-lg font-black tracking-tight">Real Service</span>
         </a>
 
         <nav className="hidden items-center gap-8 text-sm font-medium text-neutral-700 lg:flex" aria-label="Основная навигация">

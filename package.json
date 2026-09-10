@@ -1,7 +1,7 @@
 {
-  "name": "autoflow",
+  "name": "real-service",
   "version": "1.0.0",
-  "description": "Frontend MVP landing page for AutoFlow Almaty",
+  "description": "Frontend MVP landing page for Real Service Almaty",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

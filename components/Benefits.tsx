@@ -30,14 +30,14 @@ export default function Benefits() {
         <div className="grid gap-8 lg:grid-cols-[0.9fr_1.1fr] lg:items-end">
           <div className="max-w-3xl">
             <p className="text-sm font-black uppercase tracking-[0.18em] text-[var(--accent)]">
-              ПОЧЕМУ AUTOFLOW
+              ПОЧЕМУ REAL SERVICE
             </p>
             <h2 className="mt-4 text-4xl font-black leading-tight tracking-normal text-[var(--foreground)] sm:text-5xl lg:text-6xl">
               Меньше вопросов. Больше понимания до визита.
             </h2>
           </div>
           <p className="max-w-2xl text-lg leading-8 text-neutral-600 lg:justify-self-end">
-            AutoFlow помогает заранее понять порядок стоимости и следующий шаг — без долгих звонков и
+            Real Service помогает заранее понять порядок стоимости и следующий шаг — без долгих звонков и
             лишней переписки.
           </p>
         </div>

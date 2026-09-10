@@ -15,12 +15,12 @@ export default function Footer() {
         <div>
           <div className="flex items-center gap-3">
             <span className="grid h-10 w-10 place-items-center rounded-full bg-[var(--foreground)] text-sm font-black text-white">
-              AF
+              RS
             </span>
-            <span className="text-lg font-black">AutoFlow</span>
+            <span className="text-lg font-black">Real Service</span>
           </div>
           <p className="mt-4 max-w-xs text-sm leading-6 text-neutral-600 sm:text-base">
-            Алматы. Телефон: +7 700 000 00 00. Ежедневно 09:00-20:00.
+            Алматы. Телефон: +7 777 805 55 95. Ежедневно 09:00-20:00.
           </p>
         </div>
 
@@ -47,7 +47,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="mx-auto mt-5 max-w-6xl border-t border-[var(--line)] pt-3 text-sm font-medium text-neutral-500 sm:mt-7 sm:pt-4">
-        © 2026 AutoFlow Almaty
+        © 2026 Real Service Almaty
       </div>
     </footer>
   );

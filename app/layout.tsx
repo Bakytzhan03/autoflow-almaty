@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "AutoFlow Almaty | Расчет стоимости ремонта",
+  title: "Real Service Almaty | Расчет стоимости ремонта",
   description:
-    "Landing page СТО AutoFlow Almaty с интерактивным расчетом ориентировочной стоимости ремонта.",
+    "Landing page СТО Real Service Almaty с интерактивным расчетом ориентировочной стоимости ремонта.",
 };
 
 export default function RootLayout({
